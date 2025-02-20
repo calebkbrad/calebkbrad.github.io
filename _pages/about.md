@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student currently pursuing my Master's in Computer Science at Old Dominion University. I earned my Bachelor's of Science in Computer Science from ODU in the summer of 2023 through the Linked BSCS/MS program. I transferred to ODU after earning my Associate's at Tidewater Community College with the support of the TCC Women's Center Stem Promise Program Scholarship. I was a member of the 2022 cohort of the Research Experience for Undergraduates in Disinformation Detection and Analysis at ODU. I specifically worked with Dr. Michael Nelson on his "Did they Really Tweet That?" project. I am currently a graduate teaching assistant for CS 151 - Intro to Programming with Java 1. I am also currently working on a tool in relation to the "Did they Really Tweet That?" project.  
+I am a recent graduate from Old Dominion University, having earned my B.S. in Computer Science in August 2023, and my M.S. in December 2024. I transferred to ODU after earning my Associate's at Tidewater Community College with the support of the TCC Women's Center Stem Promise Program Scholarship. I was a member of the 2022 cohort of the Research Experience for Undergraduates in Disinformation Detection and Analysis at ODU. I specifically worked with Dr. Michael Nelson on his "Did they Really Tweet That?" project. Since my participation in the REU, I have also worked on other research projects for the Web Sciences and Digital Libraries Research Group. During my graduate career at ODU, I also worked as a graduate teaching assistant for CS 151 - Intro To Programming with Java 1.   
 
 ## Coding Projects  
 Below are some of my coding projects completed for both research and coursework.  
 
-### A Universal Web Scraper for Archived Twitter URIs (in-progress)  
-In this project, I am developing a command line tool to take an archived Twitter URI (either a status page or profile page) and scrape useful information about the archived resource, regardless of the UI Twitter was using at the time of archival. The code and instructions for use are located [here](https://github.com/calebkbrad/tweet-memento-scraper).  
+### A Universal Web Scraper for Archived Twitter URIs  
+In this project, I developed a command line tool to take an archived Twitter URI (either a status page or profile page) and scrape useful information about the archived resource (either a status URL or a profile URL), regardless of the UI Twitter was using at the time of archival. The code and instructions for use are located [here](https://github.com/calebkbrad/tweet-memento-scraper).  
 
 ### A Vector-Based Search Engine For Scientific Figures
 This project was completed as part of my coursework in CS 734: Intro to Information Retrieval. In this project, I developed and locally deployed a vector-based search engine for a dataset of over 250,000 images of scientific figures. This search engine utilizes the OpenAI CLIP model to generate vector embeddings to support both text-to-image and image-to-image search simultaneously. The search engine also utilized a locally employed Elastic Search Docker container to store the embeddings and handle queries. The code and associated report can be found [here](https://github.com/calebkbrad/Vector-Search-Engine).  
